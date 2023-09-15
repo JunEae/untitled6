@@ -1,4 +1,4 @@
-//big comment pls work
+//big comment
 public class Toy {
     private int Weight, Size, numberOfDetails;
     boolean Softness;
